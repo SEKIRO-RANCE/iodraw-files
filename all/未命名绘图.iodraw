@@ -11,31 +11,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-2" value="结果适配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="340" width="70" height="100" as="geometry" />
+          <mxGeometry x="110" y="340" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-4" target="4y0qzKA9WDlEXKKpYJw_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-4" value="节点初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="340" width="60" height="100" as="geometry" />
+          <mxGeometry x="200" y="340" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-6" target="4y0qzKA9WDlEXKKpYJw_-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-6" value="节点去重与合并" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="340" width="60" height="100" as="geometry" />
+          <mxGeometry x="280" y="340" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-7" target="4y0qzKA9WDlEXKKpYJw_-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-7" value="父子关系重建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="340" width="70" height="100" as="geometry" />
+          <mxGeometry x="360" y="340" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-8" target="4y0qzKA9WDlEXKKpYJw_-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-8" value="逻辑门推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="340" width="60" height="100" as="geometry" />
+          <mxGeometry x="450" y="340" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-9" target="4y0qzKA9WDlEXKKpYJw_-10">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-20" value="抽取结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="360" width="50" height="60" as="geometry" />
+          <mxGeometry x="30" y="360" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
