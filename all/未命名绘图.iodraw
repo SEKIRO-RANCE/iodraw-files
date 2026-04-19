@@ -31,8 +31,11 @@
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-11" value="结构校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="340" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4y0qzKA9WDlEXKKpYJw_-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4y0qzKA9WDlEXKKpYJw_-12" value="持久化保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="340" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4y0qzKA9WDlEXKKpYJw_-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
