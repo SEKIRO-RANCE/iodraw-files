@@ -37,11 +37,20 @@
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-8" value="逻辑门推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="340" width="60" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="4y0qzKA9WDlEXKKpYJw_-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-9" target="4y0qzKA9WDlEXKKpYJw_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-9" value="顶事件确定与层级修正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="340" width="70" height="100" as="geometry" />
+          <mxGeometry x="500" y="340" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4y0qzKA9WDlEXKKpYJw_-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-10" target="4y0qzKA9WDlEXKKpYJw_-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-10" value="后处理剪枝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="340" width="70" height="100" as="geometry" />
+          <mxGeometry x="590" y="340" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4y0qzKA9WDlEXKKpYJw_-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-11" target="4y0qzKA9WDlEXKKpYJw_-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-11" value="结构校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="340" width="60" height="100" as="geometry" />
