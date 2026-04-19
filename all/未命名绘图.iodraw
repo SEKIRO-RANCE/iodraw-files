@@ -102,8 +102,11 @@
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-43" value="校验阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="320" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4y0qzKA9WDlEXKKpYJw_-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="4y0qzKA9WDlEXKKpYJw_-45" value="抽取结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="495" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4y0qzKA9WDlEXKKpYJw_-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
