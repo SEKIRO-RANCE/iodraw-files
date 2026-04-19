@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-6" value="规则库与领域知识注入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="480" width="230" height="40" as="geometry" />
+          <mxGeometry x="-80" y="490" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-7" target="8o6bI9jIiSdtftyBuLYP-11">
           <mxGeometry relative="1" as="geometry">
@@ -43,19 +43,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-9" value="修复场景树上下注入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="650" width="230" height="30" as="geometry" />
+          <mxGeometry x="-80" y="630.5" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-10" target="8o6bI9jIiSdtftyBuLYP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-10" value="规则上下文段生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="470" width="220" height="40" as="geometry" />
+          <mxGeometry x="220" y="485" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-11" target="8o6bI9jIiSdtftyBuLYP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-11" value="增强任务描述生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="530" width="230" height="40" as="geometry" />
+          <mxGeometry x="210" y="540" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-12" target="8o6bI9jIiSdtftyBuLYP-14">
           <mxGeometry relative="1" as="geometry" />
