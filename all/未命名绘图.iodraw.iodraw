@@ -306,10 +306,16 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-128" value="生成全树摘要" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5120" y="630" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-129" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-129" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-125" target="8o6bI9jIiSdtftyBuLYP-127">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5100" y="810" as="sourcePoint" />
             <mxPoint x="5150" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-130" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5100" y="810" as="sourcePoint" />
+            <mxPoint x="5210" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
