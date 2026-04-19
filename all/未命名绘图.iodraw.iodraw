@@ -72,7 +72,7 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-15" value="模型推理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="810" y="475" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-42" value="通用规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;通用规则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1030" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-43" target="8o6bI9jIiSdtftyBuLYP-45">
@@ -126,7 +126,7 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-10" y="1150" as="sourcePoint" />
-            <mxPoint x="340" y="1150" as="targetPoint" />
+            <mxPoint x="350" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
