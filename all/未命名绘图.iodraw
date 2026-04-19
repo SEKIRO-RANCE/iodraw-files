@@ -26,10 +26,10 @@
           <mxGeometry x="510" y="670" width="260" height="101" as="geometry" />
         </mxCell>
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-10" value="7 后处理修剪&#xa;优化标签、修剪空节点、合并兄弟节点，结构更简洁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="99" y="1556" width="252" height="84" as="geometry" />
+          <mxGeometry x="510" y="799.5" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-11" value="8 结构校验&#xa;进行环路、孤儿节点、关系合法性及逻辑一致性检查，确保树的合理性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="99" y="1690" width="252" height="101" as="geometry" />
+          <mxGeometry x="510" y="910" width="252" height="101" as="geometry" />
         </mxCell>
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-12" value="9 持久化保存&#xa;将校验通过的故障树存储为可编辑格式，生成最终可编辑树版本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="99" y="1842" width="252" height="101" as="geometry" />
