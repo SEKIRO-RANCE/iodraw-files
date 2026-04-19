@@ -90,6 +90,9 @@
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-36" value="后校验阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="300" width="215" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4y0qzKA9WDlEXKKpYJw_-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application_server;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry y="370" width="123" height="124" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
