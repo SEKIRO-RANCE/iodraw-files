@@ -303,8 +303,14 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-127" value="抽取邻域节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4900" y="630.5" width="180" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-128" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5070" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-128" value="生成全树摘要" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5120" y="630" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-129" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5100" y="810" as="sourcePoint" />
+            <mxPoint x="5150" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
