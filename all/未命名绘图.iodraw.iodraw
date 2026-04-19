@@ -72,11 +72,8 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-15" value="模型推理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="810" y="475" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-42" target="8o6bI9jIiSdtftyBuLYP-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-42" value="通用规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-57.5" y="1129" width="135" height="40" as="geometry" />
+          <mxGeometry x="-80" y="1030" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-43" target="8o6bI9jIiSdtftyBuLYP-45">
           <mxGeometry relative="1" as="geometry" />
@@ -85,7 +82,7 @@
           <mxGeometry x="100" y="1030" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-44" value="外部行业规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1080" width="131.5" height="40" as="geometry" />
+          <mxGeometry x="282" y="1030" width="131.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-45" target="8o6bI9jIiSdtftyBuLYP-46">
           <mxGeometry relative="1" as="geometry" />
