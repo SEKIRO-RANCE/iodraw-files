@@ -303,7 +303,7 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-127" value="抽取邻域节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4900" y="630.5" width="180" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-128" value="生成全树摘要" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-128" value="生成全树摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="5120" y="630" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-129" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-125" target="8o6bI9jIiSdtftyBuLYP-127">
@@ -346,7 +346,13 @@
           <mxGeometry x="4980" y="720" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-136" value="修复提示词上下文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4962" y="780" width="278" height="40" as="geometry" />
+          <mxGeometry x="4956" y="785" width="278" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-137" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-135" target="8o6bI9jIiSdtftyBuLYP-136">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5100" y="810" as="sourcePoint" />
+            <mxPoint x="5150" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
