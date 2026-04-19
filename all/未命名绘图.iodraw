@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-3" value="后处理与校验阶段（步骤6-9）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="1380" width="330" height="588" as="geometry" />
+          <mxGeometry x="490" y="918" width="330" height="588" as="geometry" />
         </mxCell>
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-4" value="1 结果适配&#xa;将输入的「抽取结果」适配为后续处理可识别的统一格式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="99" y="640" width="252" height="101" as="geometry" />
