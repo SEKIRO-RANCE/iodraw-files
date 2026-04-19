@@ -49,13 +49,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-11" value="增强任务描述生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="540" width="230" height="30" as="geometry" />
+          <mxGeometry x="210" y="540" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-12" target="8o6bI9jIiSdtftyBuLYP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-12" value="示例段注入生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="580" width="230" height="35.5" as="geometry" />
+          <mxGeometry x="210" y="582.25" width="230" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-13" target="8o6bI9jIiSdtftyBuLYP-14">
           <mxGeometry relative="1" as="geometry" />
