@@ -23,7 +23,7 @@
           <mxGeometry x="99" y="1228" width="252" height="101" as="geometry" />
         </mxCell>
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-9" value="6 顶事件确定与层级修正&#xa;明确根节点（顶事件），调整层级结构，确保层级关系正确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95" y="1405" width="260" height="101" as="geometry" />
+          <mxGeometry x="510" y="670" width="260" height="101" as="geometry" />
         </mxCell>
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-10" value="7 后处理修剪&#xa;优化标签、修剪空节点、合并兄弟节点，结构更简洁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="99" y="1556" width="252" height="84" as="geometry" />
