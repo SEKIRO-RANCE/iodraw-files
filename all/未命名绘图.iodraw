@@ -94,7 +94,7 @@
           <mxGeometry x="1020" y="389.67" width="80" height="80.65" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-42" value="建树阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="320" width="170" height="30" as="geometry" />
+          <mxGeometry x="215" y="320" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-43" value="校验阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="320" width="160" height="30" as="geometry" />
@@ -104,6 +104,9 @@
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-46" value="可编辑树版本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4y0qzKA9WDlEXKKpYJw_-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="400" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
