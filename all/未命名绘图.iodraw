@@ -32,7 +32,7 @@
           <mxGeometry x="510" y="910" width="252" height="101" as="geometry" />
         </mxCell>
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-12" value="9 持久化保存&#xa;将校验通过的故障树存储为可编辑格式，生成最终可编辑树版本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="99" y="1842" width="252" height="101" as="geometry" />
+          <mxGeometry x="510" y="1068" width="252" height="101" as="geometry" />
         </mxCell>
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-4" target="3CqzmyhPTtPTEbxCdlDk-5">
           <mxGeometry relative="1" as="geometry">
@@ -71,7 +71,9 @@
         </mxCell>
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-8" target="3CqzmyhPTtPTEbxCdlDk-9">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="400" y="630" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
