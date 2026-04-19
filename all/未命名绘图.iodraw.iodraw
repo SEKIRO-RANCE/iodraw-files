@@ -75,10 +75,10 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-42" value="通用规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="1120" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-43" value="领域术语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-43" value="领域术语" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-44" value="外部行业规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-44" value="外部行业规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="295" y="1120" width="126.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-45" value="规则加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -93,7 +93,7 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-48" value="格式化输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="1380" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-49" value="规则上下文段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="1450" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
