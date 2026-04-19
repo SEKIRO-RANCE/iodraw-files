@@ -78,11 +78,14 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-42" value="通用规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-135" y="1210" width="135" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-43" target="8o6bI9jIiSdtftyBuLYP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-43" value="领域术语" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1100" width="130" height="40" as="geometry" />
+          <mxGeometry x="120" y="1100" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-44" value="外部行业规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1120" width="131.5" height="40" as="geometry" />
+          <mxGeometry x="320" y="1180" width="131.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-45" value="规则加载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="1190" width="130" height="40" as="geometry" />
@@ -98,6 +101,9 @@
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-49" value="规则上下文段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="130" y="1450" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-54" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1199" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
