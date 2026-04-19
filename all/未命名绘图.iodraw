@@ -60,6 +60,76 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-3" value="后处理与校验阶段（步骤6-9）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="1380" width="330" height="588" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-4" value="1 结果适配&#xa;将输入的「抽取结果」适配为后续处理可识别的统一格式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="99" y="640" width="252" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-5" value="2 节点初始化&#xa;从适配后的数据中提取事件、条件等元素，生成故障树的初始节点集合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="99" y="791" width="252" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-6" value="3 节点去重与合并&#xa;消除重复节点，合并语义相同或关联紧密的节点，减少冗余" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="99" y="943" width="252" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-7" value="4 父子关系重建&#xa;建立节点间的层级（父子）关系，形成树的骨架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="99" y="1094" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-8" value="5 逻辑门推断&#xa;为节点补充「或门（+）」「与门（×）」等逻辑关系，补全逻辑语义" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="99" y="1228" width="252" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-9" value="6 顶事件确定与层级修正&#xa;明确根节点（顶事件），调整层级结构，确保层级关系正确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="1405" width="260" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-10" value="7 后处理修剪&#xa;优化标签、修剪空节点、合并兄弟节点，结构更简洁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="99" y="1556" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-11" value="8 结构校验&#xa;进行环路、孤儿节点、关系合法性及逻辑一致性检查，确保树的合理性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="99" y="1690" width="252" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-12" value="9 持久化保存&#xa;将校验通过的故障树存储为可编辑格式，生成最终可编辑树版本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="99" y="1842" width="252" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-4" target="3CqzmyhPTtPTEbxCdlDk-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-5" target="3CqzmyhPTtPTEbxCdlDk-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-6" target="3CqzmyhPTtPTEbxCdlDk-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-7" target="3CqzmyhPTtPTEbxCdlDk-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-9" target="3CqzmyhPTtPTEbxCdlDk-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-10" target="3CqzmyhPTtPTEbxCdlDk-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-11" target="3CqzmyhPTtPTEbxCdlDk-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-8" target="3CqzmyhPTtPTEbxCdlDk-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
