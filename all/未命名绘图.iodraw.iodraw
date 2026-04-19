@@ -96,17 +96,23 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-45" value="规则加载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="1190" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-46" target="8o6bI9jIiSdtftyBuLYP-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-46" value="按领域筛选" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="1280" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-47" target="8o6bI9jIiSdtftyBuLYP-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-47" value="结构合并" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="1360" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-48" value="格式化输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="378.25" y="1400" width="130" height="40" as="geometry" />
+          <mxGeometry x="100" y="1440" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-49" value="规则上下文段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1570" width="130" height="60" as="geometry" />
+          <mxGeometry x="100" y="1530" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
