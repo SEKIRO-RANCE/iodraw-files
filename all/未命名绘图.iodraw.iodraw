@@ -90,14 +90,17 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-44" value="外部行业规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="246.75" y="1129" width="131.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-45" target="8o6bI9jIiSdtftyBuLYP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-45" value="规则加载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="1190" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-46" value="按领域筛选" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1260" width="130" height="40" as="geometry" />
+          <mxGeometry x="100" y="1280" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-47" value="结构合并" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="1370" width="130" height="40" as="geometry" />
+          <mxGeometry x="100" y="1360" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-48" value="格式化输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="378.25" y="1400" width="130" height="40" as="geometry" />
