@@ -133,7 +133,7 @@
           <mxGeometry x="940" y="1010" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-69" value="行业类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="970" width="100" height="40" as="geometry" />
+          <mxGeometry x="1070" y="1010" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-71" value="项目特定规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1020" width="100" height="40" as="geometry" />
@@ -191,6 +191,9 @@
             <mxPoint x="1220" y="1190" as="sourcePoint" />
             <mxPoint x="990" y="1090" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-71" target="8o6bI9jIiSdtftyBuLYP-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
