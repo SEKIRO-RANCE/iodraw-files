@@ -138,20 +138,29 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-71" value="项目特定规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1020" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-73" target="8o6bI9jIiSdtftyBuLYP-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-73" value="文本清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="1100" width="120" height="40" as="geometry" />
+          <mxGeometry x="1060" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-75" target="8o6bI9jIiSdtftyBuLYP-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-75" value="行业提示增强" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="1160" width="120" height="41" as="geometry" />
+          <mxGeometry x="1065" y="1169" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-77" value="增强项目描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="1410" width="130" height="40" as="geometry" />
+          <mxGeometry x="1050" y="1610" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-78" target="8o6bI9jIiSdtftyBuLYP-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-78" value="用户需求融合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-79" target="8o6bI9jIiSdtftyBuLYP-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-79" value="项目规则拼接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1065" y="1230" width="120" height="40" as="geometry" />
