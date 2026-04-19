@@ -81,11 +81,6 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-43" value="领域术语" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="1030" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="348" y="1140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-44" value="外部行业规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="282" y="1030" width="131.5" height="40" as="geometry" />
         </mxCell>
@@ -115,6 +110,12 @@
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-49" value="规则上下文段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="1530" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.502;exitY=1.183;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1320" as="sourcePoint" />
+            <mxPoint x="170" y="1130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
