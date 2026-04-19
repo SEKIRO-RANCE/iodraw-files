@@ -49,19 +49,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-11" value="增强任务描述生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="540" width="230" height="30" as="geometry" />
+          <mxGeometry x="200" y="540" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-12" target="8o6bI9jIiSdtftyBuLYP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-12" value="示例段注入生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="585" width="230" height="35.5" as="geometry" />
+          <mxGeometry x="205" y="585" width="215" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-13" target="8o6bI9jIiSdtftyBuLYP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-13" value="修复专用提示词上下文生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="630.5" width="230" height="30" as="geometry" />
+          <mxGeometry x="205" y="630.5" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-14" target="8o6bI9jIiSdtftyBuLYP-15">
           <mxGeometry relative="1" as="geometry" />
