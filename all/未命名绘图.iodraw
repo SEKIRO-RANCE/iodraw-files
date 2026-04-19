@@ -87,6 +87,9 @@
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-37" target="4y0qzKA9WDlEXKKpYJw_-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4y0qzKA9WDlEXKKpYJw_-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="100" width="1200" height="560" as="geometry" />
+        </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application_server;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="10" y="384.63" width="90" height="90.73" as="geometry" />
         </mxCell>
@@ -98,9 +101,6 @@
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-43" value="校验阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="320" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4y0qzKA9WDlEXKKpYJw_-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
