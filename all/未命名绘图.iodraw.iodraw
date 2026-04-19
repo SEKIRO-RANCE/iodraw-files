@@ -279,8 +279,14 @@
             <mxPoint x="5100" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-122" value="条件判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5020" y="555" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-123" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5100" y="810" as="sourcePoint" />
+            <mxPoint x="5150" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
