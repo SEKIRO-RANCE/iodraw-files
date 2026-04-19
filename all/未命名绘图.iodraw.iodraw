@@ -198,8 +198,8 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8o6bI9jIiSdtftyBuLYP-71" target="8o6bI9jIiSdtftyBuLYP-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-95" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="1380" width="60" height="30" as="geometry" />
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-95" value="任务规则层注入，决定结果是否贴合当前目标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1545" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
