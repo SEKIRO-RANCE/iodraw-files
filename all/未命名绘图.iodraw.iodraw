@@ -25,7 +25,7 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-9" value="修复场景树上下注入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-80" y="640" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-10" value="规则上下文段生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="480" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
