@@ -294,7 +294,7 @@
             <mxPoint x="5150" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-125" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-125" value="有目标节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5100" y="770" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
