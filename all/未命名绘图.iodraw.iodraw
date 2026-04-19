@@ -295,7 +295,7 @@
           <mxGeometry x="4920" y="587.75" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-126" value="无目标节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5170" y="587.75" width="90" height="30" as="geometry" />
+          <mxGeometry x="5170" y="587.75" width="90" height="32.25" as="geometry" />
         </mxCell>
         <mxCell id="8o6bI9jIiSdtftyBuLYP-127" value="抽取邻域节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4890" y="640.5" width="180" height="50" as="geometry" />
