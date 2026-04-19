@@ -147,8 +147,14 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-75" value="文本清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1169" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-76" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="1210" width="120" height="60" as="geometry" />
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-77" value="文本清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-78" value="文本清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-79" value="文本清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
