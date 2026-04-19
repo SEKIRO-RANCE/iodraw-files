@@ -17,13 +17,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-2" value="结果适配" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="370" width="80" height="120" as="geometry" />
+          <mxGeometry x="130" y="370" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-4" target="4y0qzKA9WDlEXKKpYJw_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-4" value="节点初始化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="230" y="370" width="80" height="120" as="geometry" />
+          <mxGeometry x="230" y="370" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-6" target="4y0qzKA9WDlEXKKpYJw_-7">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-7" value="父子关系重建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="420" y="370" width="80" height="120" as="geometry" />
+          <mxGeometry x="430" y="370" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-8" target="4y0qzKA9WDlEXKKpYJw_-9">
           <mxGeometry relative="1" as="geometry" />
