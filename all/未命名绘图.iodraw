@@ -23,7 +23,7 @@
           <mxGeometry x="99" y="1228" width="252" height="101" as="geometry" />
         </mxCell>
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-9" value="6 顶事件确定与层级修正&#xa;明确根节点（顶事件），调整层级结构，确保层级关系正确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="670" width="260" height="101" as="geometry" />
+          <mxGeometry x="520" y="670" width="260" height="101" as="geometry" />
         </mxCell>
         <mxCell id="3CqzmyhPTtPTEbxCdlDk-10" value="7 后处理修剪&#xa;优化标签、修剪空节点、合并兄弟节点，结构更简洁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="799.5" width="252" height="84" as="geometry" />
@@ -54,7 +54,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3CqzmyhPTtPTEbxCdlDk-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-9" target="3CqzmyhPTtPTEbxCdlDk-10">
+        <mxCell id="3CqzmyhPTtPTEbxCdlDk-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.448;exitY=0.984;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3CqzmyhPTtPTEbxCdlDk-9" target="3CqzmyhPTtPTEbxCdlDk-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -82,12 +82,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1430" as="sourcePoint" />
             <mxPoint x="400" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3CqzmyhPTtPTEbxCdlDk-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="3CqzmyhPTtPTEbxCdlDk-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="650" as="sourcePoint" />
-            <mxPoint x="640" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
