@@ -19,8 +19,8 @@
         <mxCell id="8o6bI9jIiSdtftyBuLYP-7" value="需求上下文注入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="535" width="230" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="8o6bI9jIiSdtftyBuLYP-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="584.5" width="120" height="60" as="geometry" />
+        <mxCell id="8o6bI9jIiSdtftyBuLYP-8" value="反馈few-shot注入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="584.5" width="230" height="45.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
