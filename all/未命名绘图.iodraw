@@ -84,9 +84,6 @@
             <mxPoint x="106" y="430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4y0qzKA9WDlEXKKpYJw_-36" value="后校验阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="300" width="215" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="4y0qzKA9WDlEXKKpYJw_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y0qzKA9WDlEXKKpYJw_-37" target="4y0qzKA9WDlEXKKpYJw_-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
