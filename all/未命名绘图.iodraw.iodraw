@@ -358,7 +358,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3viSPixb5NTY3S5OMwb6-1" value="Associative&#xa;Entity" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="550" width="140" height="60" as="geometry" />
+          <mxGeometry x="-330" y="660.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3viSPixb5NTY3S5OMwb6-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_normal;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="710" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3viSPixb5NTY3S5OMwb6-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.android.navigation_bar_3_landscape;fillColor=#1A1A1A;strokeColor=#999999;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="570" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
