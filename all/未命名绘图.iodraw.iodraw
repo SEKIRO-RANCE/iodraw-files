@@ -366,6 +366,9 @@
         <mxCell id="3viSPixb5NTY3S5OMwb6-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.android.navigation_bar_3_landscape;fillColor=#1A1A1A;strokeColor=#999999;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-370" y="570" width="320" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3viSPixb5NTY3S5OMwb6-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="1010" width="123" height="142" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
